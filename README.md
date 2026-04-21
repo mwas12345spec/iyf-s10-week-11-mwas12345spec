@@ -41,5 +41,5 @@ npm run dev
 - JWT debugging
 - Fixing user-post relationships
 
-## Live Demo (if deployed)
+## Live Demo
 [View Live Demo](https://your-deployed-url.com)
