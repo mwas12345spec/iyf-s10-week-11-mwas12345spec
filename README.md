@@ -6,7 +6,7 @@
 - Date: April 21, 2026
 
 ## Project Description
-Built CommunityHub backend using Express, MongoDB Atlas, Mongoose and JWT authentication.
+Built social backend using Express, MongoDB Atlas, Mongoose and JWT authentication.
 
 ## Technologies Used
 - Node.js
