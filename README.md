@@ -42,4 +42,4 @@ npm run dev
 - Fixing user-post relationships
 
 ## Live Demo
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://mwas12345spec.github.io/iyf-s10-week-11-mwas12345spec/)
